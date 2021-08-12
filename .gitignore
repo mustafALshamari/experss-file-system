@@ -1,0 +1,5 @@
+/data
+.env
+testEnv.rest
+/node_modules
+*.DS_Store

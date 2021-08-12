@@ -1,0 +1,19 @@
+{
+  "name": "iousingfile",
+  "version": "1.0.0",
+  "description": "client class that handle input output data from file as DB",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-specifier-resolution=node -r dotenv/config server.js"
+  },
+  "author": "mustafa",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^10.0.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  }
+}
